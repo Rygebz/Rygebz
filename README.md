@@ -22,12 +22,12 @@ An aspiring programmer, Always looking to acquire new skills and work on real-wo
 # 🏡My Hobbies
 * Reading
 * Studying
-* Playing video games
+* Playing video games like:
   - Pizza Tower
   - Balatro
   - Celeste
   - Minecraft
-* Watching movies and anime
+* Watching movies and series
 * Playing on the piano
 <!--
 **Rygebz/Rygebz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
