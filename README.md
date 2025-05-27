@@ -22,7 +22,7 @@ An aspiring programmer, Always looking to acquire new skills and work on real-wo
 # 🏡My Hobbies
 * Reading
 * Studying
-* Playing video games like:
+* Favorite video games
   - Pizza Tower
   - Balatro
   - Celeste
